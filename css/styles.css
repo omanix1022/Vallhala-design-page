@@ -1,0 +1,166 @@
+/*********************TAG SEGELCTORS*******************/
+body {
+  color: #40514e;
+  margin: 0em;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-weight: bold;
+}
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+  
+  ;
+
+}
+
+a {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  
+}
+
+a:hover{
+  color: #f4f8f8;
+}
+
+hr {  
+  border: dotted #b5c4c4 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+/********************CLASS SELETORS******************/
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+background-color: #66bfbf;
+padding:50px 0 20px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.valhalla {
+  border-radius: 300px;
+  margin-top: 30px;
+  width: 15%;
+}
+
+.graphic-arts {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.web-development {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.graphic-arts-img {
+  margin-right: 30px;
+  width: 25%;
+  float: left;
+}
+
+.web-development-img {
+  margin-left: 30px;
+  width: 25%;
+  float: right;
+}
+
+.opening-p {
+  width: 30%;
+  margin: auto ;  
+  color: #40514e;
+  ;
+}
+.hr-bottom {
+  margin-bottom: 100px;
+}
+
+
+
+.copyrigth {
+  margin-top: 15px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.copyrigth{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
